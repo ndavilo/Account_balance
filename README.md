@@ -1,2 +1,2 @@
-# Account_banace
+# Account_balance
 Python Class to help balance financial accounts
